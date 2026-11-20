@@ -1,0 +1,11 @@
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\obj\Debug\muzeumok.csproj.AssemblyReference.cache
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\obj\Debug\muzeumok.Form1.resources
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\obj\Debug\muzeumok.Properties.Resources.resources
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\obj\Debug\muzeumok.csproj.GenerateResource.cache
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\obj\Debug\muzeumok.csproj.CoreCompileInputs.cache
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\bin\Debug\muzeumok.exe.config
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\bin\Debug\muzeumok.exe
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\bin\Debug\muzeumok.pdb
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\obj\Debug\muzeumok.exe
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\obj\Debug\muzeumok.pdb
+C:\Users\barna\Desktop\Sulis\pazo faszom\muzeumok\obj\Debug\muzeumok.exe.config
